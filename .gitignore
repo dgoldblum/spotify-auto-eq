@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+
+# VSCode
+.vscode/
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# Logs
+*.log
+logs/
+
+
+# Secrets
+.env
+.env.*
+
+
+# Byte-compiled / distribution
+build/
+dist/
+*.egg-info/
+
+
+# Equalizer APO output (generated include)
+auto-eq.txt
+
+
+# Coverage
+.coverage
+htmlcov/
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+# Misc
+*.swp
